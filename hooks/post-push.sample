@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Post Push done. Ahi."
+
+exit 0

@@ -1,0 +1,21 @@
+{
+  "name": "git-hook-exts",
+  "version": "1.0.0",
+  "description": "This make using hooks to automate your works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "git-hook-cli": "git-hook-cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  },
+  "type": "module"
+}
